@@ -1,0 +1,7 @@
+Serveur distant pour le web service
+Serveur Windows 
+tomcat7
+mysql5.5
+no-ip
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SupCrowdFunder</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_text_view">Email :</string>
+    <string name="password_text_view">Mot de passe :</string>
+    <string name="loginButton">Se connecter</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="stateTextView">Anonyme</string>
+    <string name="categoryTextView">Catégories</string>
+    <string name="title_activity_project_details">ProjectDetailsActivity</string>
+    <string name="projectNameTextView">Projet 1</string>
+    <string name="descript1TextView">Ceci est un example, avant de \.\.\.</string>
+    <string name="descript2TextView">Ceci est un example, avant de rendre l\'application dynamique</string>
+    <string name="creatorNameTextView">Anthony</string>
+    <string name="categoryNameTextView">Musique</string>
+    <string name="title_activity_contribute">ContributeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="title_activity_add_project">AddProjectActivity</string>
+    <string name="profilActivityTextView">Profil</string>
+    <string name="name_text_view">Nom :</string>
+    <string name="first_name_text_view">Prénom :</string>
+    <string name="confirmation_text_view">Confirmation :</string>
+    <string name="modify_profil_button">Modifier</string>
+    <string name="contribute_text_view">Contribution :</string>
+    <string name="add_project_text_view">Ajouter un projet :</string>
+    <string name="project_name_text_view">Nom :</string>
+    <string name="descript2_text_view">Description complète :</string>
+    <string name="descript1_text_view">Description courte :</string>
+    <string name="threshold_text_view">Seuil :</string>
+    <string name="completion_text_view">Fin de la collecte :</string>
+    <string name="add_project_button">Ajouter ce projet</string>
+    <string name="project_date_end">Fin :</string>
+    <string name="project_descript1">Description :</string>
+    <string name="project_descript2">Détails : </string>
+    <string name="project_threshold">Montant à atteindre :</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    
+    <string name="menu_register">S\'enregistrer</string>
+    <string name="menu_login">Se connecter</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_add_project">Nouveau Projet</string>
+    <string name="menu_index">Accueil</string>
+    <string name="register_button">S\'enregistrer</string>
+    <string name="logginAno">Connexion anonyme</string>
+    <string name="cancel">Annuler</string>
+    <string name="retour">index</string>
+
+</resources>

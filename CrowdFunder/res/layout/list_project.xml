@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/Lstprojectdescript"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="150dp"
+        android:ems="10"
+        />
+
+    <TextView
+        android:id="@+id/completion_date"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:ems="10"
+         >
+
+        <requestFocus android:layout_width="match_parent" />
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/id_project"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:height="0dp"
+        android:width="0dp" />
+
+</LinearLayout>
